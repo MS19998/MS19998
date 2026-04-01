@@ -1,7 +1,3 @@
-
-<!--
-**MS19998/MS19998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">MAITREYEE SENGUPTA</h1>
 <p align="center">
   <strong> Computational and System Biology • Bioinformatics • Multi-omics network integration for rheumatoid arthritis </strong><br>
