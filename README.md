@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">MAITREYEE SENGUPTA</h1>
 <p align="center">
-  <strong> Computational and System Biology • Bioinformatics • Multi-omics network integration for rheumatoid arthritis /strong><br>
+  <strong> Computational and System Biology • Bioinformatics • Multi-omics network integration for rheumatoid arthritis </strong><br>
   <em> Exploring the interface of biology and computation</em>
 </p>
 
