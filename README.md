@@ -60,13 +60,17 @@ Multi-omics research enthusiast, having deep interest in <strong> rheumatoid art
 
 ---
 
-### 📫 Reach Me At:
-- 📧 Email: maitreyeesengupta11@gmail.com
-- 💼 [LinkedIn] (https://www.linkedin.com/in/maitreyee-sengupta-b09ab4184?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<h2>📫 Reach Me At</h2>
+
+- 📧 Email:maitreyeesengupta11@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/maitreyee-sengupta-b09ab4184?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 - 🔬 [ORCID](https://orcid.org/0009-0007-2017-0487)
 - 🐍 [GitHub](https://github.com/MS19998)
 
- 🤝 Open to Collaborate On:
+---
+
+ <h2>🤝 Open to Collaborate On</h2>
+ 
 - Open-source bioinformatics tools
 - Rheumatoid arthritis
 - Precision medicine
@@ -74,4 +78,6 @@ Multi-omics research enthusiast, having deep interest in <strong> rheumatoid art
 - Scientific writing and collaborative datasets
 
 ---
+
+
 
